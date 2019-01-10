@@ -1,2 +1,5 @@
-# require-demo
-require-demo
+# requirejs
+
+npm install
+
+grunt connect
